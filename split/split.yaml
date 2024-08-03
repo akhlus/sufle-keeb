@@ -1,6 +1,6 @@
-matrix_0_1:
-  x: 0
-  'y': 17
+matrix_c0_r3:
+  x: 100
+  'y': -83
   r: 0
   meta:
     stagger: 0
@@ -20,64 +20,64 @@ matrix_0_1:
     autobind: 10
     skip: false
     asym: both
-    colrow: '0_1'
-    name: matrix_0_1
+    colrow: c0_r3
+    name: matrix_c0_r3
     zone: &ref_1
       key:
         spread: kx
         padding: kx
       columns:
-        '0': &ref_0
+        c0: &ref_0
           rows:
-            '0':
+            r4:
               skip: true
           key: {}
-          name: '0'
-        '1': &ref_2
+          name: c0
+        c1: &ref_2
           rows:
-            '0':
+            r4:
               skip: true
           key: {}
-          name: '1'
-        '2': &ref_3
+          name: c1
+        c2: &ref_3
           key:
             stagger: 5
           rows: {}
-          name: '2'
-        '3': &ref_4
+          name: c2
+        c3: &ref_4
           key:
             stagger: 2.5
           rows: {}
-          name: '3'
-        '4': &ref_5
+          name: c3
+        c4: &ref_5
           key:
             stagger: -2.5
           rows: {}
-          name: '4'
-        '5': &ref_6
+          name: c4
+        c5: &ref_6
           key:
             stagger: -2.5
           rows:
-            '0':
+            r4:
               skip: true
-          name: '5'
+          name: c5
       rows:
-        '0': {}
-        '1': {}
-        '2': {}
-        '3': {}
-        '4': {}
+        r4: {}
+        r3: {}
+        r2: {}
+        r1: {}
+        r0: {}
       name: matrix
     col: *ref_0
-    row: '1'
+    row: r3
     bind:
       - 10
       - 10
       - 10
       - 0
-matrix_0_2:
-  x: 0
-  'y': 34
+matrix_c0_r2:
+  x: 100
+  'y': -66
   r: 0
   meta:
     stagger: 0
@@ -97,19 +97,19 @@ matrix_0_2:
     autobind: 10
     skip: false
     asym: both
-    colrow: '0_2'
-    name: matrix_0_2
+    colrow: c0_r2
+    name: matrix_c0_r2
     zone: *ref_1
     col: *ref_0
-    row: '2'
+    row: r2
     bind:
       - 10
       - 10
       - 10
       - 0
-matrix_0_3:
-  x: 0
-  'y': 51
+matrix_c0_r1:
+  x: 100
+  'y': -49
   r: 0
   meta:
     stagger: 0
@@ -129,19 +129,19 @@ matrix_0_3:
     autobind: 10
     skip: false
     asym: both
-    colrow: '0_3'
-    name: matrix_0_3
+    colrow: c0_r1
+    name: matrix_c0_r1
     zone: *ref_1
     col: *ref_0
-    row: '3'
+    row: r1
     bind:
       - 10
       - 10
       - 10
       - 0
-matrix_0_4:
-  x: 0
-  'y': 68
+matrix_c0_r0:
+  x: 100
+  'y': -32
   r: 0
   meta:
     stagger: 0
@@ -161,19 +161,19 @@ matrix_0_4:
     autobind: 10
     skip: false
     asym: both
-    colrow: '0_4'
-    name: matrix_0_4
+    colrow: c0_r0
+    name: matrix_c0_r0
     zone: *ref_1
     col: *ref_0
-    row: '4'
+    row: r0
     bind:
       - 0
       - 10
       - 10
       - 0
-matrix_1_1:
-  x: 17
-  'y': 17
+matrix_c1_r3:
+  x: 117
+  'y': -83
   r: 0
   meta:
     stagger: 0
@@ -193,19 +193,19 @@ matrix_1_1:
     autobind: 10
     skip: false
     asym: both
-    colrow: '1_1'
-    name: matrix_1_1
+    colrow: c1_r3
+    name: matrix_c1_r3
     zone: *ref_1
     col: *ref_2
-    row: '1'
+    row: r3
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_1_2:
-  x: 17
-  'y': 34
+matrix_c1_r2:
+  x: 117
+  'y': -66
   r: 0
   meta:
     stagger: 0
@@ -225,19 +225,19 @@ matrix_1_2:
     autobind: 10
     skip: false
     asym: both
-    colrow: '1_2'
-    name: matrix_1_2
+    colrow: c1_r2
+    name: matrix_c1_r2
     zone: *ref_1
     col: *ref_2
-    row: '2'
+    row: r2
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_1_3:
-  x: 17
-  'y': 51
+matrix_c1_r1:
+  x: 117
+  'y': -49
   r: 0
   meta:
     stagger: 0
@@ -257,19 +257,19 @@ matrix_1_3:
     autobind: 10
     skip: false
     asym: both
-    colrow: '1_3'
-    name: matrix_1_3
+    colrow: c1_r1
+    name: matrix_c1_r1
     zone: *ref_1
     col: *ref_2
-    row: '3'
+    row: r1
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_1_4:
-  x: 17
-  'y': 68
+matrix_c1_r0:
+  x: 117
+  'y': -32
   r: 0
   meta:
     stagger: 0
@@ -289,19 +289,19 @@ matrix_1_4:
     autobind: 10
     skip: false
     asym: both
-    colrow: '1_4'
-    name: matrix_1_4
+    colrow: c1_r0
+    name: matrix_c1_r0
     zone: *ref_1
     col: *ref_2
-    row: '4'
+    row: r0
     bind:
       - 0
       - 10
       - 10
       - 10
-matrix_2_0:
-  x: 34
-  'y': 5
+matrix_c2_r4:
+  x: 134
+  'y': -95
   r: 0
   meta:
     stagger: 5
@@ -321,19 +321,19 @@ matrix_2_0:
     autobind: 10
     skip: false
     asym: both
-    colrow: '2_0'
-    name: matrix_2_0
+    colrow: c2_r4
+    name: matrix_c2_r4
     zone: *ref_1
     col: *ref_3
-    row: '0'
+    row: r4
     bind:
       - 10
       - 0
       - 0
       - 10
-matrix_2_1:
-  x: 34
-  'y': 22
+matrix_c2_r3:
+  x: 134
+  'y': -78
   r: 0
   meta:
     stagger: 5
@@ -353,19 +353,19 @@ matrix_2_1:
     autobind: 10
     skip: false
     asym: both
-    colrow: '2_1'
-    name: matrix_2_1
+    colrow: c2_r3
+    name: matrix_c2_r3
     zone: *ref_1
     col: *ref_3
-    row: '1'
+    row: r3
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_2_2:
-  x: 34
-  'y': 39
+matrix_c2_r2:
+  x: 134
+  'y': -61
   r: 0
   meta:
     stagger: 5
@@ -385,19 +385,19 @@ matrix_2_2:
     autobind: 10
     skip: false
     asym: both
-    colrow: '2_2'
-    name: matrix_2_2
+    colrow: c2_r2
+    name: matrix_c2_r2
     zone: *ref_1
     col: *ref_3
-    row: '2'
+    row: r2
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_2_3:
-  x: 34
-  'y': 56
+matrix_c2_r1:
+  x: 134
+  'y': -44
   r: 0
   meta:
     stagger: 5
@@ -417,19 +417,19 @@ matrix_2_3:
     autobind: 10
     skip: false
     asym: both
-    colrow: '2_3'
-    name: matrix_2_3
+    colrow: c2_r1
+    name: matrix_c2_r1
     zone: *ref_1
     col: *ref_3
-    row: '3'
+    row: r1
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_2_4:
-  x: 34
-  'y': 73
+matrix_c2_r0:
+  x: 134
+  'y': -27
   r: 0
   meta:
     stagger: 5
@@ -449,19 +449,19 @@ matrix_2_4:
     autobind: 10
     skip: false
     asym: both
-    colrow: '2_4'
-    name: matrix_2_4
+    colrow: c2_r0
+    name: matrix_c2_r0
     zone: *ref_1
     col: *ref_3
-    row: '4'
+    row: r0
     bind:
       - 0
       - 10
       - 10
       - 0
-matrix_3_0:
-  x: 51
-  'y': 7.5
+matrix_c3_r4:
+  x: 151
+  'y': -92.5
   r: 0
   meta:
     stagger: 2.5
@@ -481,19 +481,19 @@ matrix_3_0:
     autobind: 10
     skip: false
     asym: both
-    colrow: '3_0'
-    name: matrix_3_0
+    colrow: c3_r4
+    name: matrix_c3_r4
     zone: *ref_1
     col: *ref_4
-    row: '0'
+    row: r4
     bind:
       - 10
       - 10
       - 0
       - 10
-matrix_3_1:
-  x: 51
-  'y': 24.5
+matrix_c3_r3:
+  x: 151
+  'y': -75.5
   r: 0
   meta:
     stagger: 2.5
@@ -513,19 +513,19 @@ matrix_3_1:
     autobind: 10
     skip: false
     asym: both
-    colrow: '3_1'
-    name: matrix_3_1
+    colrow: c3_r3
+    name: matrix_c3_r3
     zone: *ref_1
     col: *ref_4
-    row: '1'
+    row: r3
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_3_2:
-  x: 51
-  'y': 41.5
+matrix_c3_r2:
+  x: 151
+  'y': -58.5
   r: 0
   meta:
     stagger: 2.5
@@ -545,19 +545,19 @@ matrix_3_2:
     autobind: 10
     skip: false
     asym: both
-    colrow: '3_2'
-    name: matrix_3_2
+    colrow: c3_r2
+    name: matrix_c3_r2
     zone: *ref_1
     col: *ref_4
-    row: '2'
+    row: r2
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_3_3:
-  x: 51
-  'y': 58.5
+matrix_c3_r1:
+  x: 151
+  'y': -41.5
   r: 0
   meta:
     stagger: 2.5
@@ -577,19 +577,19 @@ matrix_3_3:
     autobind: 10
     skip: false
     asym: both
-    colrow: '3_3'
-    name: matrix_3_3
+    colrow: c3_r1
+    name: matrix_c3_r1
     zone: *ref_1
     col: *ref_4
-    row: '3'
+    row: r1
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_3_4:
-  x: 51
-  'y': 75.5
+matrix_c3_r0:
+  x: 151
+  'y': -24.5
   r: 0
   meta:
     stagger: 2.5
@@ -609,19 +609,19 @@ matrix_3_4:
     autobind: 10
     skip: false
     asym: both
-    colrow: '3_4'
-    name: matrix_3_4
+    colrow: c3_r0
+    name: matrix_c3_r0
     zone: *ref_1
     col: *ref_4
-    row: '4'
+    row: r0
     bind:
       - 0
       - 0
       - 10
       - 0
-matrix_4_0:
-  x: 68
-  'y': 5
+matrix_c4_r4:
+  x: 168
+  'y': -95
   r: 0
   meta:
     stagger: -2.5
@@ -641,19 +641,19 @@ matrix_4_0:
     autobind: 10
     skip: false
     asym: both
-    colrow: '4_0'
-    name: matrix_4_0
+    colrow: c4_r4
+    name: matrix_c4_r4
     zone: *ref_1
     col: *ref_5
-    row: '0'
+    row: r4
     bind:
       - 10
       - 10
       - 0
       - 0
-matrix_4_1:
-  x: 68
-  'y': 22
+matrix_c4_r3:
+  x: 168
+  'y': -78
   r: 0
   meta:
     stagger: -2.5
@@ -673,19 +673,19 @@ matrix_4_1:
     autobind: 10
     skip: false
     asym: both
-    colrow: '4_1'
-    name: matrix_4_1
+    colrow: c4_r3
+    name: matrix_c4_r3
     zone: *ref_1
     col: *ref_5
-    row: '1'
+    row: r3
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_4_2:
-  x: 68
-  'y': 39
+matrix_c4_r2:
+  x: 168
+  'y': -61
   r: 0
   meta:
     stagger: -2.5
@@ -705,19 +705,19 @@ matrix_4_2:
     autobind: 10
     skip: false
     asym: both
-    colrow: '4_2'
-    name: matrix_4_2
+    colrow: c4_r2
+    name: matrix_c4_r2
     zone: *ref_1
     col: *ref_5
-    row: '2'
+    row: r2
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_4_3:
-  x: 68
-  'y': 56
+matrix_c4_r1:
+  x: 168
+  'y': -44
   r: 0
   meta:
     stagger: -2.5
@@ -737,19 +737,19 @@ matrix_4_3:
     autobind: 10
     skip: false
     asym: both
-    colrow: '4_3'
-    name: matrix_4_3
+    colrow: c4_r1
+    name: matrix_c4_r1
     zone: *ref_1
     col: *ref_5
-    row: '3'
+    row: r1
     bind:
       - 10
       - 10
       - 10
       - 10
-matrix_4_4:
-  x: 68
-  'y': 73
+matrix_c4_r0:
+  x: 168
+  'y': -27
   r: 0
   meta:
     stagger: -2.5
@@ -769,19 +769,19 @@ matrix_4_4:
     autobind: 10
     skip: false
     asym: both
-    colrow: '4_4'
-    name: matrix_4_4
+    colrow: c4_r0
+    name: matrix_c4_r0
     zone: *ref_1
     col: *ref_5
-    row: '4'
+    row: r0
     bind:
       - 0
       - 0
       - 10
       - 10
-matrix_5_1:
-  x: 85
-  'y': 19.5
+matrix_c5_r3:
+  x: 185
+  'y': -80.5
   r: 0
   meta:
     stagger: -2.5
@@ -801,19 +801,19 @@ matrix_5_1:
     autobind: 10
     skip: false
     asym: both
-    colrow: '5_1'
-    name: matrix_5_1
+    colrow: c5_r3
+    name: matrix_c5_r3
     zone: *ref_1
     col: *ref_6
-    row: '1'
+    row: r3
     bind:
       - 10
       - 0
       - 10
       - 10
-matrix_5_2:
-  x: 85
-  'y': 36.5
+matrix_c5_r2:
+  x: 185
+  'y': -63.5
   r: 0
   meta:
     stagger: -2.5
@@ -833,19 +833,19 @@ matrix_5_2:
     autobind: 10
     skip: false
     asym: both
-    colrow: '5_2'
-    name: matrix_5_2
+    colrow: c5_r2
+    name: matrix_c5_r2
     zone: *ref_1
     col: *ref_6
-    row: '2'
+    row: r2
     bind:
       - 10
       - 0
       - 10
       - 10
-matrix_5_3:
-  x: 85
-  'y': 53.5
+matrix_c5_r1:
+  x: 185
+  'y': -46.5
   r: 0
   meta:
     stagger: -2.5
@@ -865,19 +865,19 @@ matrix_5_3:
     autobind: 10
     skip: false
     asym: both
-    colrow: '5_3'
-    name: matrix_5_3
+    colrow: c5_r1
+    name: matrix_c5_r1
     zone: *ref_1
     col: *ref_6
-    row: '3'
+    row: r1
     bind:
       - 10
       - 0
       - 10
       - 10
-matrix_5_4:
-  x: 85
-  'y': 70.5
+matrix_c5_r0:
+  x: 185
+  'y': -29.5
   r: 0
   meta:
     stagger: -2.5
@@ -897,19 +897,19 @@ matrix_5_4:
     autobind: 10
     skip: false
     asym: both
-    colrow: '5_4'
-    name: matrix_5_4
+    colrow: c5_r0
+    name: matrix_c5_r0
     zone: *ref_1
     col: *ref_6
-    row: '4'
+    row: r0
     bind:
       - 0
       - 0
       - 10
       - 10
 thumbs_0:
-  x: 87
-  'y': 0.5
+  x: 187
+  'y': -99.5
   r: -15
   meta:
     stagger: 0
@@ -945,7 +945,7 @@ thumbs_0:
           key:
             splay: -15
             shift:
-              - 2
+              - 3
               - -2
           rows: {}
           name: '1'
@@ -958,8 +958,8 @@ thumbs_0:
       - 0
       - 0
 thumbs_1:
-  x: 104.1527898
-  'y': -6.6319745999999995
+  x: 205.0188152
+  'y': -107.13197459999999
   r: -30
   meta:
     stagger: 0
@@ -970,7 +970,7 @@ thumbs_1:
       - 0
     orient: 0
     shift:
-      - 2
+      - 3
       - -2
     rotate: 0
     width: 17
