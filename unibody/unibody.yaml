@@ -1,0 +1,3363 @@
+matrix_0_1:
+  x: 4.3999238
+  'y': 16.420739
+  r: -15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '0_1'
+    name: matrix_0_1
+    zone: &ref_1
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0': &ref_0
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1': &ref_2
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2': &ref_3
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3': &ref_4
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4': &ref_5
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5': &ref_6
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col: *ref_0
+    row: '1'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 0
+    mirrored: false
+matrix_0_2:
+  x: 8.7998475
+  'y': 32.8414781
+  r: -15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '0_2'
+    name: matrix_0_2
+    zone: *ref_1
+    col: *ref_0
+    row: '2'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 0
+    mirrored: false
+matrix_0_3:
+  x: 13.1997713
+  'y': 49.2622171
+  r: -15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '0_3'
+    name: matrix_0_3
+    zone: *ref_1
+    col: *ref_0
+    row: '3'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 0
+    mirrored: false
+matrix_0_4:
+  x: 17.5996951
+  'y': 65.6829562
+  r: -15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '0_4'
+    name: matrix_0_4
+    zone: *ref_1
+    col: *ref_0
+    row: '4'
+    bind:
+      - 0
+      - 10
+      - 10
+      - 0
+    mirrored: false
+matrix_1_1:
+  x: 20.8206628
+  'y': 12.0208153
+  r: -15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '1_1'
+    name: matrix_1_1
+    zone: *ref_1
+    col: *ref_2
+    row: '1'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_1_2:
+  x: 25.2205866
+  'y': 28.4415543
+  r: -15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '1_2'
+    name: matrix_1_2
+    zone: *ref_1
+    col: *ref_2
+    row: '2'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_1_3:
+  x: 29.6205103
+  'y': 44.8622934
+  r: -15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '1_3'
+    name: matrix_1_3
+    zone: *ref_1
+    col: *ref_2
+    row: '3'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_1_4:
+  x: 34.0204341
+  'y': 61.2830324
+  r: -15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '1_4'
+    name: matrix_1_4
+    zone: *ref_1
+    col: *ref_2
+    row: '4'
+    bind:
+      - 0
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_2_0:
+  x: 34.1355733
+  'y': -3.9702184
+  r: -15
+  meta:
+    stagger: 5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '2_0'
+    name: matrix_2_0
+    zone: *ref_1
+    col: *ref_3
+    row: '0'
+    bind:
+      - 10
+      - 0
+      - 0
+      - 10
+    mirrored: false
+matrix_2_1:
+  x: 38.5354971
+  'y': 12.4505206
+  r: -15
+  meta:
+    stagger: 5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '2_1'
+    name: matrix_2_1
+    zone: *ref_1
+    col: *ref_3
+    row: '1'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_2_2:
+  x: 42.9354209
+  'y': 28.8712597
+  r: -15
+  meta:
+    stagger: 5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '2_2'
+    name: matrix_2_2
+    zone: *ref_1
+    col: *ref_3
+    row: '2'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_2_3:
+  x: 47.3353446
+  'y': 45.2919987
+  r: -15
+  meta:
+    stagger: 5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '2_3'
+    name: matrix_2_3
+    zone: *ref_1
+    col: *ref_3
+    row: '3'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_2_4:
+  x: 51.7352684
+  'y': 61.7127378
+  r: -15
+  meta:
+    stagger: 5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '2_4'
+    name: matrix_2_4
+    zone: *ref_1
+    col: *ref_3
+    row: '4'
+    bind:
+      - 0
+      - 10
+      - 10
+      - 0
+    mirrored: false
+matrix_3_0:
+  x: 51.20336
+  'y': -5.9553276
+  r: -15
+  meta:
+    stagger: 2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '3_0'
+    name: matrix_3_0
+    zone: *ref_1
+    col: *ref_4
+    row: '0'
+    bind:
+      - 10
+      - 10
+      - 0
+      - 10
+    mirrored: false
+matrix_3_1:
+  x: 55.6032837
+  'y': 10.4654114
+  r: -15
+  meta:
+    stagger: 2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '3_1'
+    name: matrix_3_1
+    zone: *ref_1
+    col: *ref_4
+    row: '1'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_3_2:
+  x: 60.0032075
+  'y': 26.8861505
+  r: -15
+  meta:
+    stagger: 2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '3_2'
+    name: matrix_3_2
+    zone: *ref_1
+    col: *ref_4
+    row: '2'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_3_3:
+  x: 64.4031313
+  'y': 43.3068895
+  r: -15
+  meta:
+    stagger: 2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '3_3'
+    name: matrix_3_3
+    zone: *ref_1
+    col: *ref_4
+    row: '3'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_3_4:
+  x: 68.803055
+  'y': 59.7276286
+  r: -15
+  meta:
+    stagger: 2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '3_4'
+    name: matrix_3_4
+    zone: *ref_1
+    col: *ref_4
+    row: '4'
+    bind:
+      - 0
+      - 0
+      - 10
+      - 0
+    mirrored: false
+matrix_4_0:
+  x: 66.9770514
+  'y': -12.7700659
+  r: -15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '4_0'
+    name: matrix_4_0
+    zone: *ref_1
+    col: *ref_5
+    row: '0'
+    bind:
+      - 10
+      - 10
+      - 0
+      - 0
+    mirrored: false
+matrix_4_1:
+  x: 71.3769752
+  'y': 3.6506731
+  r: -15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '4_1'
+    name: matrix_4_1
+    zone: *ref_1
+    col: *ref_5
+    row: '1'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_4_2:
+  x: 75.7768989
+  'y': 20.0714122
+  r: -15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '4_2'
+    name: matrix_4_2
+    zone: *ref_1
+    col: *ref_5
+    row: '2'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_4_3:
+  x: 80.1768227
+  'y': 36.4921512
+  r: -15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '4_3'
+    name: matrix_4_3
+    zone: *ref_1
+    col: *ref_5
+    row: '3'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: false
+matrix_4_4:
+  x: 84.5767465
+  'y': 52.9128903
+  r: -15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '4_4'
+    name: matrix_4_4
+    zone: *ref_1
+    col: *ref_5
+    row: '4'
+    bind:
+      - 0
+      - 0
+      - 10
+      - 10
+    mirrored: false
+matrix_5_1:
+  x: 87.1506666
+  'y': -3.1640652
+  r: -15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '5_1'
+    name: matrix_5_1
+    zone: *ref_1
+    col: *ref_6
+    row: '1'
+    bind:
+      - 10
+      - 0
+      - 10
+      - 10
+    mirrored: false
+matrix_5_2:
+  x: 91.5505904
+  'y': 13.2566738
+  r: -15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '5_2'
+    name: matrix_5_2
+    zone: *ref_1
+    col: *ref_6
+    row: '2'
+    bind:
+      - 10
+      - 0
+      - 10
+      - 10
+    mirrored: false
+matrix_5_3:
+  x: 95.9505141
+  'y': 29.6774129
+  r: -15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '5_3'
+    name: matrix_5_3
+    zone: *ref_1
+    col: *ref_6
+    row: '3'
+    bind:
+      - 10
+      - 0
+      - 10
+      - 10
+    mirrored: false
+matrix_5_4:
+  x: 100.3504379
+  'y': 46.0981519
+  r: -15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: '5_4'
+    name: matrix_5_4
+    zone: *ref_1
+    col: *ref_6
+    row: '4'
+    bind:
+      - 0
+      - 0
+      - 10
+      - 10
+    mirrored: false
+thumbs_0:
+  x: 84.1649564
+  'y': -22.034294
+  r: -30
+  meta:
+    stagger: 0
+    spread: 17
+    splay: -15
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: 0_default
+    name: thumbs_0
+    zone: &ref_8
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0': &ref_7
+          key:
+            splay: -15
+          rows: {}
+          name: '0'
+        '1': &ref_9
+          key:
+            splay: -15
+            shift:
+              - 2
+              - -2
+          rows: {}
+          name: '1'
+      name: thumbs
+    col: *ref_7
+    row: default
+    bind:
+      - 0
+      - 0
+      - 0
+      - 0
+    mirrored: false
+thumbs_1:
+  x: 98.8873882
+  'y': -33.3627211
+  r: -45
+  meta:
+    stagger: 0
+    spread: 17
+    splay: -15
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 2
+      - -2
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: 1_default
+    name: thumbs_1
+    zone: *ref_8
+    col: *ref_9
+    row: default
+    bind:
+      - 0
+      - 0
+      - 0
+      - 0
+    mirrored: false
+mirror_matrix_0_1:
+  x: 238.800952
+  'y': 16.420739
+  r: 15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_0_1
+    name: mirror_matrix_0_1
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      rows:
+        '0':
+          skip: true
+      key: {}
+      name: '0'
+    row: '1'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 0
+    mirrored: true
+mirror_matrix_0_2:
+  x: 234.4010283
+  'y': 32.8414781
+  r: 15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_0_2
+    name: mirror_matrix_0_2
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      rows:
+        '0':
+          skip: true
+      key: {}
+      name: '0'
+    row: '2'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 0
+    mirrored: true
+mirror_matrix_0_3:
+  x: 230.0011045
+  'y': 49.2622171
+  r: 15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_0_3
+    name: mirror_matrix_0_3
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      rows:
+        '0':
+          skip: true
+      key: {}
+      name: '0'
+    row: '3'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 0
+    mirrored: true
+mirror_matrix_0_4:
+  x: 225.60118070000001
+  'y': 65.6829562
+  r: 15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_0_4
+    name: mirror_matrix_0_4
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      rows:
+        '0':
+          skip: true
+      key: {}
+      name: '0'
+    row: '4'
+    bind:
+      - 0
+      - 10
+      - 10
+      - 0
+    mirrored: true
+mirror_matrix_1_1:
+  x: 222.380213
+  'y': 12.0208153
+  r: 15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_1_1
+    name: mirror_matrix_1_1
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      rows:
+        '0':
+          skip: true
+      key: {}
+      name: '1'
+    row: '1'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_1_2:
+  x: 217.98028920000002
+  'y': 28.4415543
+  r: 15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_1_2
+    name: mirror_matrix_1_2
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      rows:
+        '0':
+          skip: true
+      key: {}
+      name: '1'
+    row: '2'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_1_3:
+  x: 213.5803655
+  'y': 44.8622934
+  r: 15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_1_3
+    name: mirror_matrix_1_3
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      rows:
+        '0':
+          skip: true
+      key: {}
+      name: '1'
+    row: '3'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_1_4:
+  x: 209.18044170000002
+  'y': 61.2830324
+  r: 15
+  meta:
+    stagger: 0
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_1_4
+    name: mirror_matrix_1_4
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      rows:
+        '0':
+          skip: true
+      key: {}
+      name: '1'
+    row: '4'
+    bind:
+      - 0
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_2_0:
+  x: 209.0653025
+  'y': -3.9702184
+  r: 15
+  meta:
+    stagger: 5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_2_0
+    name: mirror_matrix_2_0
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: 5
+      rows: {}
+      name: '2'
+    row: '0'
+    bind:
+      - 10
+      - 0
+      - 0
+      - 10
+    mirrored: true
+mirror_matrix_2_1:
+  x: 204.66537870000002
+  'y': 12.4505206
+  r: 15
+  meta:
+    stagger: 5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_2_1
+    name: mirror_matrix_2_1
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: 5
+      rows: {}
+      name: '2'
+    row: '1'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_2_2:
+  x: 200.2654549
+  'y': 28.8712597
+  r: 15
+  meta:
+    stagger: 5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_2_2
+    name: mirror_matrix_2_2
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: 5
+      rows: {}
+      name: '2'
+    row: '2'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_2_3:
+  x: 195.86553120000002
+  'y': 45.2919987
+  r: 15
+  meta:
+    stagger: 5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_2_3
+    name: mirror_matrix_2_3
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: 5
+      rows: {}
+      name: '2'
+    row: '3'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_2_4:
+  x: 191.4656074
+  'y': 61.7127378
+  r: 15
+  meta:
+    stagger: 5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_2_4
+    name: mirror_matrix_2_4
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: 5
+      rows: {}
+      name: '2'
+    row: '4'
+    bind:
+      - 0
+      - 10
+      - 10
+      - 0
+    mirrored: true
+mirror_matrix_3_0:
+  x: 191.9975158
+  'y': -5.9553276
+  r: 15
+  meta:
+    stagger: 2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_3_0
+    name: mirror_matrix_3_0
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: 2.5
+      rows: {}
+      name: '3'
+    row: '0'
+    bind:
+      - 10
+      - 10
+      - 0
+      - 10
+    mirrored: true
+mirror_matrix_3_1:
+  x: 187.5975921
+  'y': 10.4654114
+  r: 15
+  meta:
+    stagger: 2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_3_1
+    name: mirror_matrix_3_1
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: 2.5
+      rows: {}
+      name: '3'
+    row: '1'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_3_2:
+  x: 183.1976683
+  'y': 26.8861505
+  r: 15
+  meta:
+    stagger: 2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_3_2
+    name: mirror_matrix_3_2
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: 2.5
+      rows: {}
+      name: '3'
+    row: '2'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_3_3:
+  x: 178.79774450000002
+  'y': 43.3068895
+  r: 15
+  meta:
+    stagger: 2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_3_3
+    name: mirror_matrix_3_3
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: 2.5
+      rows: {}
+      name: '3'
+    row: '3'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_3_4:
+  x: 174.3978208
+  'y': 59.7276286
+  r: 15
+  meta:
+    stagger: 2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_3_4
+    name: mirror_matrix_3_4
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: 2.5
+      rows: {}
+      name: '3'
+    row: '4'
+    bind:
+      - 0
+      - 0
+      - 10
+      - 0
+    mirrored: true
+mirror_matrix_4_0:
+  x: 176.2238244
+  'y': -12.7700659
+  r: 15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_4_0
+    name: mirror_matrix_4_0
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: -2.5
+      rows: {}
+      name: '4'
+    row: '0'
+    bind:
+      - 10
+      - 10
+      - 0
+      - 0
+    mirrored: true
+mirror_matrix_4_1:
+  x: 171.8239006
+  'y': 3.6506731
+  r: 15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_4_1
+    name: mirror_matrix_4_1
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: -2.5
+      rows: {}
+      name: '4'
+    row: '1'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_4_2:
+  x: 167.4239769
+  'y': 20.0714122
+  r: 15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_4_2
+    name: mirror_matrix_4_2
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: -2.5
+      rows: {}
+      name: '4'
+    row: '2'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_4_3:
+  x: 163.0240531
+  'y': 36.4921512
+  r: 15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_4_3
+    name: mirror_matrix_4_3
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: -2.5
+      rows: {}
+      name: '4'
+    row: '3'
+    bind:
+      - 10
+      - 10
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_4_4:
+  x: 158.6241293
+  'y': 52.9128903
+  r: 15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_4_4
+    name: mirror_matrix_4_4
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: -2.5
+      rows: {}
+      name: '4'
+    row: '4'
+    bind:
+      - 0
+      - 0
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_5_1:
+  x: 156.0502092
+  'y': -3.1640652
+  r: 15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_5_1
+    name: mirror_matrix_5_1
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: -2.5
+      rows:
+        '0':
+          skip: true
+      name: '5'
+    row: '1'
+    bind:
+      - 10
+      - 0
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_5_2:
+  x: 151.6502854
+  'y': 13.2566738
+  r: 15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_5_2
+    name: mirror_matrix_5_2
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: -2.5
+      rows:
+        '0':
+          skip: true
+      name: '5'
+    row: '2'
+    bind:
+      - 10
+      - 0
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_5_3:
+  x: 147.25036169999998
+  'y': 29.6774129
+  r: 15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_5_3
+    name: mirror_matrix_5_3
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: -2.5
+      rows:
+        '0':
+          skip: true
+      name: '5'
+    row: '3'
+    bind:
+      - 10
+      - 0
+      - 10
+      - 10
+    mirrored: true
+mirror_matrix_5_4:
+  x: 142.8504379
+  'y': 46.0981519
+  r: 15
+  meta:
+    stagger: -2.5
+    spread: 17
+    splay: 0
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_5_4
+    name: mirror_matrix_5_4
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '0'
+        '1':
+          rows:
+            '0':
+              skip: true
+          key: {}
+          name: '1'
+        '2':
+          key:
+            stagger: 5
+          rows: {}
+          name: '2'
+        '3':
+          key:
+            stagger: 2.5
+          rows: {}
+          name: '3'
+        '4':
+          key:
+            stagger: -2.5
+          rows: {}
+          name: '4'
+        '5':
+          key:
+            stagger: -2.5
+          rows:
+            '0':
+              skip: true
+          name: '5'
+      rows:
+        '0': {}
+        '1': {}
+        '2': {}
+        '3': {}
+        '4': {}
+      name: matrix
+    col:
+      key:
+        stagger: -2.5
+      rows:
+        '0':
+          skip: true
+      name: '5'
+    row: '4'
+    bind:
+      - 0
+      - 0
+      - 10
+      - 10
+    mirrored: true
+mirror_thumbs_0:
+  x: 159.0359194
+  'y': -22.034294
+  r: 30
+  meta:
+    stagger: 0
+    spread: 17
+    splay: -15
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 0
+      - 0
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_0_default
+    name: mirror_thumbs_0
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          key:
+            splay: -15
+          rows: {}
+          name: '0'
+        '1':
+          key:
+            splay: -15
+            shift:
+              - 2
+              - -2
+          rows: {}
+          name: '1'
+      name: thumbs
+    col:
+      key:
+        splay: -15
+      rows: {}
+      name: '0'
+    row: default
+    bind:
+      - 0
+      - 0
+      - 0
+      - 0
+    mirrored: true
+mirror_thumbs_1:
+  x: 144.3134876
+  'y': -33.3627211
+  r: 45
+  meta:
+    stagger: 0
+    spread: 17
+    splay: -15
+    origin:
+      - 0
+      - 0
+    orient: 0
+    shift:
+      - 2
+      - -2
+    rotate: 0
+    width: 17
+    height: 17
+    padding: 17
+    autobind: 10
+    skip: false
+    asym: both
+    colrow: mirror_1_default
+    name: mirror_thumbs_1
+    zone:
+      key:
+        spread: kx
+        padding: kx
+      columns:
+        '0':
+          key:
+            splay: -15
+          rows: {}
+          name: '0'
+        '1':
+          key:
+            splay: -15
+            shift:
+              - 2
+              - -2
+          rows: {}
+          name: '1'
+      name: thumbs
+    col:
+      key:
+        splay: -15
+        shift:
+          - 2
+          - -2
+      rows: {}
+      name: '1'
+    row: default
+    bind:
+      - 0
+      - 0
+      - 0
+      - 0
+    mirrored: true
